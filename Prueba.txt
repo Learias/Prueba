@@ -5,3 +5,14 @@
 5.- git add . ~ "añade todos los archivos que han tenido cambios"
 6.- git commit -m ~ "git commit guardará todos los cambio hechos en la zona de montaje o área de preparación (staging area), junto con una breve descripción del usuario, en un "commit" al repositorio local. (el -m agrega comentarios)"
 7.- git push ~ sube todo al repo en GitHub
+8.- git config -- global user.email "tuemail" --> email del usuario asociado a los cambios
+9.- git config -- global user.name "tunombre" --> nombre del usuario asociado a los cambios
+10.-git log --> hash para diferenciar la version del programa
+11.-git checkout -- Nombredelarchivo.zzz --> vuelve el archivo al estado anterior
+
+Otros
+1) pwd --> Nos indica el directorio en el que estamos
+2) cd --> atrás
+3) cd + nombreDirectorio --> avanzamos a ese directorio
+4) dir --> nos indica todos los lugares a donde podríamos acceder
+5) ls --> indica los archivos dentro de la carpeta en la que estemos
